@@ -1,7 +1,5 @@
+
 {
   "name": "MicrobeMind Explorer",
-  "description": "An AI-powered application using Gemini to explore complex microbiology topics for students and researchers, complete with a simulated traffic analytics dashboard.",
-  "cloudBuild": {
-    "build": "cloudbuild.yaml"
-  }
+  "description": "An AI-powered application using Gemini to explore complex microbiology topics for students and researchers, complete with a simulated traffic analytics dashboard."
 }
